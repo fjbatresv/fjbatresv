@@ -1,6 +1,9 @@
-## Introduction
-- 🔭 I’m currently working on 🤖 [AI Chatbot Project](https://github.com/melanieshi0120/AI_Chatbot_Project)
-- 🌱 I’m currently learning  AWS and GCP 
--  ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and Korean 🇰🇷
-- 🏋️ Workout everyday!
-- 🏅 Black belt Taekwondo athlete 15 years ago
+## Who am i
+
+I have worked on many projects including themes like remittances, international identity, data migration, access validation on real time, massive sender messaging.
+
+I had the opportunity of work on project based on Neuroscience focused on train the different attention types and hard skills.
+
+Now... I am working with [PayPal](https://paypal.com) like a Software Engineer 3 and trying to contribute with the communities around the world.
+
+If you are more curious you can check my certifies [here](https://bit.ly/gdrivecvcertjb).
