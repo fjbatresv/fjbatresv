@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fjbatresv" target="blank"><img src="https://img.shields.io/twitter/follow/fjbatresv?logo=twitter&style=for-the-badge" alt="fjbatresv" /></a> </p>
 
-- 🔭 I’m currently working on **PayPal**
+- 🔭 I’m currently working on **Yalutec**
 
 - 👯 I’m looking to collaborate on **Education**
 
