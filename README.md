@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/fjbatresv" target="blank"><img src="https://img.shields.io/twitter/follow/fjbatresv?logo=twitter&style=for-the-badge" alt="fjbatresv" /></a> </p>
 
-- 🔭 I’m currently working on **Yalutec**
+- 🔭 I’m currently working on **[https://www.truelogic.io/](Truelogic)**
 
 - 👯 I’m looking to collaborate on **Education**
 
 - 📝 I regularly write articles on [https://medium.com/@fjbatresv](https://medium.com/@fjbatresv)
 
-- 💬 Ask me about **Angular, Firebase, NestJS, GCP, Flutter**
+- 💬 Ask me about **Angular, Firebase, NestJS, GCP, Flutter, AWS**
 
 - 📫 How to reach me **fjbatresv@gmail.com**
 
